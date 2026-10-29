@@ -1,0 +1,1028 @@
+{
+  "common": {
+    "siteMetadata": {
+      "title": "Webservice Services",
+      "description": "Professional webservice services for your home and office.",
+      "icon": "/assets/logo.webp"
+    },
+    "Footer": {
+      "logo": "/assets/logo.webp",
+      "logoAlt": "Weblance Logo",
+      "brandTitle": "Weblance",
+      "copyrightText": "© 2026 Weblance. All Rights Reserved.Powered by Lestow",
+      "description": "At Weblance, we provide reliable and professional webservice solutions for homes and businesses. From small repairs to complete installations, our team is committed to quality service and customer satisfaction.",
+      "hoursTitle": "Working Hours",
+      "hoursDays": "Mon - Sat:",
+      "hours": "9:00 AM - 7:00 PM\nSunday: Closed",
+      "socialLinks": [
+        {
+          "id": "1",
+          "icon": "FaFacebookF",
+          "url": "https://facebook.com"
+        },
+        {
+          "id": "2",
+          "icon": "FaTwitter",
+          "url": "https://twitter.com"
+        },
+        {
+          "id": "3",
+          "icon": "FaYoutube",
+          "url": "https://youtube.com"
+        },
+        {
+          "id": "4",
+          "icon": "FaInstagram",
+          "url": "https://instagram.com"
+        },
+        {
+          "id": "5",
+          "icon": "FaLinkedinIn",
+          "url": "https://linkedin.com"
+        }
+      ],
+      "quickLinks": [
+        {
+          "id": "ql-home",
+          "label": "Home",
+          "url": "/#home"
+        },
+        {
+          "id": "ql-about",
+          "label": "About Us",
+          "url": "/#about"
+        },
+        {
+          "id": "ql-services",
+          "label": "Our Services",
+          "url": "/#services"
+        },
+        {
+          "id": "ql-portfolio",
+          "label": "Portfolio",
+          "url": "/#portfolio"
+        },
+        {
+          "id": "ql-process",
+          "label": "Our Process",
+          "url": "/#process"
+        },
+        {
+          "id": "ql-contact",
+          "label": "Contact Us",
+          "url": "/#contact"
+        }
+      ],
+      "servicesLinks": [
+        {
+          "id": "sl-custom",
+          "label": "Custom Software Development",
+          "url": "/#services"
+        },
+        {
+          "id": "sl-cloud",
+          "label": "Cloud Solutions",
+          "url": "/#services"
+        },
+        {
+          "id": "sl-cyber",
+          "label": "Cyber Security",
+          "url": "/#services"
+        },
+        {
+          "id": "sl-consulting",
+          "label": "IT Consulting",
+          "url": "/#services"
+        },
+        {
+          "id": "sl-managed",
+          "label": "Managed IT Services",
+          "url": "/#services"
+        },
+        {
+          "id": "sl-mobile",
+          "label": "Mobile App Development",
+          "url": "/#services"
+        }
+      ],
+      "contactInfo": {
+        "email": "info@xyz.com",
+        "phone": "+1 000000000",
+        "address": "123 Main St, New York, NY, USA"
+      },
+      "instagram": [
+        "/images/service-details.jpg",
+        "/images/service-d1.jpg",
+        "/images/service-d2.jpg",
+        "/images/service-details.jpg",
+        "/images/service-d1.jpg",
+        "/images/service-d2.jpg"
+      ],
+      "quickLinksTitle": "Quick Links",
+      "servicesTitle": "Our Services",
+      "contactTitle": "Contact Us",
+      "scrollTopLabel": "Scroll to top"
+    },
+    "globalUI": {
+      "serviceDetail": {
+        "helpTitle1": "Need Help?",
+        "helpTitle2": "Call Us",
+        "helpDescription": "Get expert consultation for your project requirements.",
+        "helpPhone": "+1 00000000",
+        "helpPhoneUrl": "tel:+100000000",
+        "helpImage": "/images/portfolio_ui_2.webp",
+        "helpImageAlt": "Need Help",
+        "benefitsTitle": "Key Benefits Of Our Services",
+        "benefits": [
+          {
+            "id": "benefit-modern",
+            "title": "Modern Design",
+            "description": "Unique designs that reflect your brand identity.",
+            "icon": "FaLaptopCode"
+          },
+          {
+            "id": "benefit-responsive",
+            "title": "Fully Responsive",
+            "description": "Optimized for all devices including desktop and mobile.",
+            "icon": "FaMobileAlt"
+          },
+          {
+            "id": "benefit-friendly",
+            "title": "User-Friendly",
+            "description": "Easy navigation for better engagement.",
+            "icon": "FaUsers"
+          },
+          {
+            "id": "benefit-seo",
+            "title": "SEO Friendly",
+            "description": "Built with SEO best practices to improve visibility.",
+            "icon": "FaCheckCircle"
+          }
+        ],
+        "choiceTitle": "Why Choose Our Services?",
+        "choiceFeatures": [
+          {
+            "id": "choice-tailored",
+            "title": "Tailored Solutions",
+            "description": "Custom designs tailored to your business needs.",
+            "icon": "FaLightbulb"
+          },
+          {
+            "id": "choice-performance",
+            "title": "High Performance",
+            "description": "Fast loading and optimized websites.",
+            "icon": "FaChartLine"
+          },
+          {
+            "id": "choice-support",
+            "title": "Ongoing Support",
+            "description": "Continuous support and maintenance.",
+            "icon": "FaShieldAlt"
+          }
+        ],
+        "processImageAlt": "Our process",
+        "videoUrl": "https://www.youtube.com/embed/0x5mf8BUJZY?autoplay=1",
+        "videoTitle": "Process video",
+        "closeVideoLabel": "Close video"
+      },
+      "notFound": {
+        "code": "404",
+        "title": "Oops! Page Not Found",
+        "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+        "buttonText": "Back to Home",
+        "buttonUrl": "/"
+      }
+    }
+  },
+  "categories": {
+    "Webservice": {
+      "sections": {
+        "Header": {
+          "variants": {
+            "WebserviceHeader2": {
+              "logo": "/assets/logo.webp",
+              "logoAlt": "BluePipe Webservice",
+              "contactInfoLeft": [
+                {
+                  "id": "ci-phone",
+                  "icon": "FiPhoneCall",
+                  "label": "Call for help:",
+                  "value": "+1 000000000"
+                },
+                {
+                  "id": "ci-email",
+                  "icon": "FiMail",
+                  "label": "Mail to us:",
+                  "value": "info@xyz.com"
+                }
+              ],
+              "contactInfoRight": [
+                {
+                  "id": "ci-location",
+                  "icon": "FiMapPin",
+                  "label": "Our Location:",
+                  "value": "123 Main St, New York, NY, USA"
+                }
+              ],
+              "navLinksLeft": [
+                {
+                  "id": "nl-home",
+                  "label": "Home",
+                  "url": "/#home"
+                },
+                {
+                  "id": "nl-services",
+                  "label": "Services",
+                  "url": "/#services"
+                },
+                {
+                  "id": "nl-about",
+                  "label": "About Us",
+                  "url": "/#about"
+                }
+              ],
+              "navLinksRight": [
+                {
+                  "id": "nl-portfolio",
+                  "label": "Portfolio",
+                  "url": "/#portfolio"
+                },
+                {
+                  "id": "nl-process",
+                  "label": "Process",
+                  "url": "/#process"
+                },
+                {
+                  "id": "nl-testimonials",
+                  "label": "Testimonials",
+                  "url": "/#testimonials"
+                }
+              ],
+              "contactButton": {
+                "text": "Contact Us ->",
+                "url": "/#contact"
+              }
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "WebserviceHero2": {
+              "subtitle": "BEST IT COMPANY",
+              "title1": "Get Our Business",
+              "title2": "This It Solution",
+              "title3": "",
+              "description": "Consectetur adipiscing elit aenean scelerisque at augue vitae consequat quisque eget congue velit in cursus leo sed sodales est eget turpis.",
+              "image1": "/images/hero-1.jpg",
+              "image2": "",
+              "image3": "",
+              "button": {
+                "text": "Explore Services",
+                "url": "/#services"
+              },
+              "nextSlideLabel": "Next slide",
+              "previousSlideLabel": "Previous slide",
+              "goToSlideLabel": "Go to slide",
+              "slides": [
+                {
+                  "id": "slide-1",
+                  "subtitle": "trusted technology partner",
+                  "title1": "Innovative Solutions",
+                  "title2": "For Your Business",
+                  "description": "From web development to digital marketing, we provide end-to-end solutions that drive real results for businesses of all sizes.",
+                  "image": "/images/hero-3.jpg",
+                  "primaryButton": {
+                    "text": "Get Started",
+                    "url": "/#services"
+                  },
+                  "secondaryButton": {
+                    "text": "Contact Us",
+                    "url": "/#contact"
+                  }
+                },
+                {
+                  "id": "slide-2",
+                  "subtitle": "leading digital agency",
+                  "title1": "We Build Amazing",
+                  "title2": "Digital Products",
+                  "description": "Our team of expert developers and designers create stunning web experiences that help your business grow and reach new heights.",
+                  "image": "/images/hero-2.jpg",
+                  "primaryButton": {
+                    "text": "Our Services",
+                    "url": "/#services"
+                  },
+                  "secondaryButton": {
+                    "text": "Contact Us",
+                    "url": "/#contact"
+                  }
+                },
+                {
+                  "id": "slide-3",
+                  "subtitle": "best it company",
+                  "title1": "Get Our Business",
+                  "title2": "This It Solution",
+                  "description": "Consectetur adipiscing elit aenean scelerisque at augue vitae consequat quisque eget congue velit in cursus leo sed sodales est eget turpis.",
+                  "image": "/images/hero-1.jpg",
+                  "primaryButton": {
+                    "text": "Explore More",
+                    "url": "/#services"
+                  },
+                  "secondaryButton": {
+                    "text": "Contact Us",
+                    "url": "/#contact"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "WebserviceAboutUs2": {
+              "subtitle": "Welcome to Weblance",
+              "subtitlePrefix": "//",
+              "title1": "Experienced designers &",
+              "title2": "developers",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et We are passionate about changing the way you think about web solutions! dolore magna aliqua. quis nostrud exercitation.",
+              "features": [
+                {
+                  "id": "f1",
+                  "icon": "FaDesktop",
+                  "title": "Web solutions",
+                  "description": "Duis aute irure dolor simply free in voluptate velit."
+                },
+                {
+                  "id": "f2",
+                  "icon": "FaCode",
+                  "title": "Best interface",
+                  "description": "Duis aute irure dolor simply free in voluptate velit."
+                }
+              ],
+              "button": {
+                "text": "Explore now ->",
+                "url": "/#services"
+              },
+              "imageMain": "/images/about1.jpg",
+              "imageSmall2": "/images/about_small.jpg",
+              "imageMainAlt": "About Weblance",
+              "imageSmallAlt": "Weblance team at work",
+              "watermarkText": "About"
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "WebserviceServices2": {
+              "subtitle": "OUR SERVICES",
+              "title1": "Elevating Businesses With IT",
+              "title2": "Ingenuity",
+              "description": "",
+              "button": {
+                "text": "View More ->",
+                "url": "/#contact"
+              },
+              "readMoreText": "Read More",
+              "services": [
+                {
+                  "id": "s1",
+                  "title": "Custom Software Development",
+                  "description": "Tailored software solutions to streamline your business processes and drive growth.",
+                  "image": "/images/service-details.jpg",
+                  "icon": "FaCode",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "s2",
+                  "title": "Cloud Solutions",
+                  "description": "Secure, scalable, and cost-effective cloud services to enhance flexibility and performance.",
+                  "image": "/images/service-d1.jpg",
+                  "icon": "FaCloud",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "s3",
+                  "title": "Cyber Security",
+                  "description": "Advanced security solutions to protect your data, systems, and business from evolving threats.",
+                  "image": "/images/service-d2.jpg",
+                  "icon": "FaShieldAlt",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "s4",
+                  "title": "IT Consulting",
+                  "description": "Expert guidance to help you choose the right technology and strategy for your business.",
+                  "image": "/images/service-details.jpg",
+                  "icon": "FaCog",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "s5",
+                  "title": "IT Infrastructure Management",
+                  "description": "Reliable infrastructure solutions to ensure seamless operations and maximum uptime.",
+                  "image": "/images/service-d1.jpg",
+                  "icon": "FaServer",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "s6",
+                  "title": "Managed IT Services",
+                  "description": "Proactive monitoring and support to keep your systems running smoothly and efficiently.",
+                  "image": "/images/service-d2.jpg",
+                  "icon": "FaUsers",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "s7",
+                  "title": "Data Analytics",
+                  "description": "Turn your data into valuable insights to make smarter business decisions.",
+                  "image": "/images/service-details.jpg",
+                  "icon": "FaChartBar",
+                  "url": "/#contact"
+                },
+                {
+                  "id": "s8",
+                  "title": "Mobile App Development",
+                  "description": "Innovative and user-friendly mobile applications for Android and iOS platforms.",
+                  "image": "/images/service-d1.jpg",
+                  "icon": "FaMobileAlt",
+                  "url": "/#contact"
+                }
+              ]
+            }
+          }
+        },
+        "Process": {
+          "variants": {
+            "WebserviceProcess2": {
+              "subtitle": "HOW IT WORKS",
+              "title1": "A Simple Process",
+              "title2": "For Webservice Services",
+              "bgImage": "",
+              "steps": [
+                {
+                  "id": "1",
+                  "icon": "FiMessageSquare",
+                  "number": "01",
+                  "title": "Discovery & Consultation",
+                  "description": "We understand your business goals, requirements and target audience to create the right strategy."
+                },
+                {
+                  "id": "2",
+                  "icon": "FiFileText",
+                  "number": "02",
+                  "title": "Planning & Strategy",
+                  "description": "We analyze, plan and create a tailored strategy with wireframes and timelines for smooth execution."
+                },
+                {
+                  "id": "3",
+                  "icon": "FiMonitor",
+                  "number": "03",
+                  "title": "Design & Development",
+                  "description": "Our team designs stunning UI/UX and develops high-performing, secure and scalable solutions."
+                },
+                {
+                  "id": "4",
+                  "icon": "FiClipboard",
+                  "number": "04",
+                  "title": "Testing & Quality Assurance",
+                  "description": "We thoroughly test for performance, security and bug-free functionality to deliver the best experience."
+                },
+                {
+                  "id": "5",
+                  "icon": "FaRocket",
+                  "number": "05",
+                  "title": "Launch & Support",
+                  "description": "We deploy your project successfully and provide continuous support to ensure long-term growth."
+                }
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "WebserviceTestimonials2": {
+              "subtitle": "TESTIMONIALS",
+              "title1": "Our Latest",
+              "title2": "Client Feedback",
+              "description": "We take pride in delivering exceptional solutions and building long-term relationships with our clients. Here's what they have to say about working with us.",
+              "quoteMark": "\"",
+              "testimonials": [
+                {
+                  "id": "1",
+                  "name": "Amit Sharma",
+                  "location": "Business Owner, Noida",
+                  "quote": "Extremely happy with the website developed for our business. The team understood our requirements very well and delivered exactly what we needed. The support after launch has also been excellent. Highly recommended!",
+                  "rating": 5,
+                  "avatar": "/images/1.jpg"
+                },
+                {
+                  "id": "2",
+                  "name": "Priya Singh",
+                  "location": "Marketing Manager, Delhi",
+                  "quote": "The team designed our company website professionally with a clean and modern look. Communication was smooth and the project was completed on time. We have already seen good response from our customers.",
+                  "rating": 5,
+                  "avatar": "/images/2.jpg"
+                },
+                {
+                  "id": "3",
+                  "name": "Rahul Verma",
+                  "location": "Founder, Gurugram",
+                  "quote": "Great experience working with this team! They delivered a user-friendly and responsive website for our organization. The design, speed and functionality are exactly as we wanted. Their support team is also very helpful.",
+                  "rating": 4,
+                  "avatar": "/images/3.jpg"
+                },
+                {
+                  "id": "4",
+                  "name": "Sneha Kapoor",
+                  "location": "CEO, Mumbai",
+                  "quote": "A truly fantastic experience from start to finish. They built a highly customized solution for us that exceeded all expectations. We are seeing a huge increase in conversions thanks to their outstanding work.",
+                  "rating": 5,
+                  "avatar": "/images/4.jpg"
+                },
+                {
+                  "id": "5",
+                  "name": "Vikram Malhotra",
+                  "location": "Director, Pune",
+                  "quote": "The developers are highly skilled and professional. They quickly resolved all our technical issues and delivered a robust product. We will definitely be coming back for our future software needs.",
+                  "rating": 5,
+                  "avatar": "/images/1.png"
+                },
+                {
+                  "id": "6",
+                  "name": "Anjali Desai",
+                  "location": "Product Manager, Bangalore",
+                  "quote": "Incredible attention to detail and superb project management. The final output is gorgeous, fast, and works perfectly on all devices. Thank you for making our vision a reality!",
+                  "rating": 5,
+                  "avatar": "/images/2.png"
+                }
+              ]
+            }
+          }
+        },
+        "Portfolio": {
+          "variants": {
+            "WebservicePortfolio2": {
+              "subtitle": "OUR PORTFOLIO",
+              "title1": "Check Our Latest",
+              "title2": "Portfolios",
+              "previousSlideLabel": "Previous slide",
+              "nextSlideLabel": "Next slide",
+              "categories": [
+                {
+                  "id": "cat-data",
+                  "icon": "FaChartBar",
+                  "label": "Data Analysis",
+                  "subtitle": "// DATA ANALYSIS",
+                  "title": "Data Analysis",
+                  "description": "We provide robust data analysis solutions to help businesses understand their data, make informed decisions, and uncover new opportunities for growth.",
+                  "features": [
+                    {
+                      "id": "f1",
+                      "icon": "FaChartPie",
+                      "title": "Data Visualization",
+                      "description": "Interactive and insightful dashboards."
+                    },
+                    {
+                      "id": "f2",
+                      "icon": "FaDatabase",
+                      "title": "Data Mining",
+                      "description": "Extracting hidden patterns and insights."
+                    },
+                    {
+                      "id": "f3",
+                      "icon": "FaChartLine",
+                      "title": "Predictive Analytics",
+                      "description": "Forecasting future trends accurately."
+                    },
+                    {
+                      "id": "f4",
+                      "icon": "FaServer",
+                      "title": "Big Data Solutions",
+                      "description": "Scalable infrastructure for large datasets."
+                    }
+                  ],
+                  "sliderImages": [
+                    "/images/portfolio_data_analysis_1.webp",
+                    "/images/portfolio_data_analysis_2.webp",
+                    "/images/portfolio_data_analysis_3.webp"
+                  ],
+                  "fixedImage": "/images/portfolio_data_analysis_right.webp",
+                  "button": {
+                    "text": "Discuss Project ->",
+                    "url": "/#contact"
+                  }
+                },
+                {
+                  "id": "cat-ui",
+                  "icon": "FaPencilRuler",
+                  "label": "UI/UX Designing",
+                  "subtitle": "// UI/UX DESIGNING",
+                  "title": "UI/UX Designing",
+                  "description": "Our UI/UX design services focus on creating intuitive, user-friendly, and visually appealing interfaces that deliver exceptional digital experiences.",
+                  "features": [
+                    {
+                      "id": "f1",
+                      "icon": "FaMobileAlt",
+                      "title": "Mobile Design",
+                      "description": "Engaging apps for iOS and Android."
+                    },
+                    {
+                      "id": "f2",
+                      "icon": "FaLaptopCode",
+                      "title": "Web Design",
+                      "description": "Responsive and modern websites."
+                    },
+                    {
+                      "id": "f3",
+                      "icon": "FaPalette",
+                      "title": "Prototyping",
+                      "description": "Interactive wireframes and prototypes."
+                    },
+                    {
+                      "id": "f4",
+                      "icon": "FaUsers",
+                      "title": "User Testing",
+                      "description": "Data-driven design optimizations."
+                    }
+                  ],
+                  "sliderImages": [
+                    "/images/portfolio_ui_1.webp",
+                    "/images/portfolio_ui_2.webp",
+                    "/images/portfolio_ui_3.webp"
+                  ],
+                  "fixedImage": "/images/portfolio_ui_right.webp",
+                  "button": {
+                    "text": "Discuss Project ->",
+                    "url": "/#contact"
+                  }
+                },
+                {
+                  "id": "cat-app",
+                  "icon": "FaMobileAlt",
+                  "label": "App Development",
+                  "subtitle": "// APP DEVELOPMENT",
+                  "title": "App Development",
+                  "description": "We build powerful, secure and scalable mobile applications that help businesses grow and connect with their customers in a better way. Our apps are user-friendly, high-performing and designed to deliver real results.",
+                  "features": [
+                    {
+                      "id": "f1",
+                      "icon": "FaMobile",
+                      "title": "Custom App Development",
+                      "description": "Tailor-made solutions for your business needs."
+                    },
+                    {
+                      "id": "f2",
+                      "icon": "FaLayerGroup",
+                      "title": "Cross-Platform Solutions",
+                      "description": "React Native and Flutter development."
+                    },
+                    {
+                      "id": "f3",
+                      "icon": "FaPenNib",
+                      "title": "UI/UX Focused Design",
+                      "description": "Intuitive interfaces for better engagement."
+                    },
+                    {
+                      "id": "f4",
+                      "icon": "FaShieldAlt",
+                      "title": "Scalable & Secure Apps",
+                      "description": "Built to grow with your business safely."
+                    }
+                  ],
+                  "sliderImages": [
+                    "/images/portfolio_app_1.webp",
+                    "/images/portfolio_app_2.webp",
+                    "/images/portfolio_app_3.webp"
+                  ],
+                  "fixedImage": "/images/portfolio_app_right.webp",
+                  "button": {
+                    "text": "Discuss Project ->",
+                    "url": "/#contact"
+                  }
+                },
+                {
+                  "id": "cat-wp",
+                  "icon": "FaWordpress",
+                  "label": "WP Development",
+                  "subtitle": "// WP DEVELOPMENT",
+                  "title": "WP Development",
+                  "description": "We provide custom WordPress development services, offering secure, scalable, and easy-to-manage websites tailored to your unique business requirements.",
+                  "features": [
+                    {
+                      "id": "f1",
+                      "icon": "FaCode",
+                      "title": "Custom Themes",
+                      "description": "Unique designs tailored to your brand."
+                    },
+                    {
+                      "id": "f2",
+                      "icon": "FaPlug",
+                      "title": "Plugin Development",
+                      "description": "Custom functionality and integrations."
+                    },
+                    {
+                      "id": "f3",
+                      "icon": "FaTachometerAlt",
+                      "title": "Speed Optimization",
+                      "description": "Lightning-fast page load times."
+                    },
+                    {
+                      "id": "f4",
+                      "icon": "FaShieldAlt",
+                      "title": "Security & Maintenance",
+                      "description": "Keeping your site safe and updated."
+                    }
+                  ],
+                  "sliderImages": [
+                    "/images/portfolio_wp_1.webp",
+                    "/images/portfolio_wp_2.webp",
+                    "/images/portfolio_wp_3.webp"
+                  ],
+                  "fixedImage": "/images/portfolio_wp_right.webp",
+                  "button": {
+                    "text": "Discuss Project ->",
+                    "url": "/#contact"
+                  }
+                },
+                {
+                  "id": "cat-3d",
+                  "icon": "FaCube",
+                  "label": "3D Design Solution",
+                  "subtitle": "// 3D DESIGN SOLUTION",
+                  "title": "3D Design Solution",
+                  "description": "Bring your ideas to life with our high-quality 3D design and animation solutions. We create realistic models, engaging animations, and immersive experiences.",
+                  "features": [
+                    {
+                      "id": "f1",
+                      "icon": "FaCubes",
+                      "title": "3D Modeling",
+                      "description": "Detailed and realistic product models."
+                    },
+                    {
+                      "id": "f2",
+                      "icon": "FaVideo",
+                      "title": "3D Animation",
+                      "description": "Engaging animations and walkthroughs."
+                    },
+                    {
+                      "id": "f3",
+                      "icon": "FaVrCardboard",
+                      "title": "AR/VR Solutions",
+                      "description": "Immersive augmented and virtual reality."
+                    },
+                    {
+                      "id": "f4",
+                      "icon": "FaDraftingCompass",
+                      "title": "Architectural Design",
+                      "description": "High-quality architectural visualizations."
+                    }
+                  ],
+                  "sliderImages": [
+                    "/images/portfolio_3d_1.webp",
+                    "/images/portfolio_3d_2.webp",
+                    "/images/portfolio_3d_3.webp"
+                  ],
+                  "fixedImage": "/images/portfolio_3d_right.webp",
+                  "button": {
+                    "text": "Discuss Project ->",
+                    "url": "/#contact"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "Counter": {
+          "variants": {
+            "WebserviceCounter2": {
+              "items": [
+                {
+                  "id": "1",
+                  "icon": "FaUsers",
+                  "number": "500+",
+                  "label": "Happy Clients"
+                },
+                {
+                  "id": "2",
+                  "icon": "FaFileCode",
+                  "number": "850+",
+                  "label": "Projects Completed"
+                },
+                {
+                  "id": "3",
+                  "icon": "FaTrophy",
+                  "number": "10+",
+                  "label": "Years of Experience"
+                },
+                {
+                  "id": "4",
+                  "icon": "FaHandshake",
+                  "number": "95+",
+                  "label": "Client Satisfaction"
+                }
+              ]
+            }
+          }
+        },
+        "Technologies": {
+          "variants": {
+            "WebserviceTechnologies2": {
+              "subtitle": "TECHNOLOGIES WE USE",
+              "title1": "Technologies",
+              "title2": "We Use",
+              "description": "We work with modern and reliable technologies to deliver the best solutions for your business.",
+              "items": [
+                {
+                  "id": "1",
+                  "title": "HTML5",
+                  "image": "/images/html5.webp"
+                },
+                {
+                  "id": "2",
+                  "title": "JavaScript",
+                  "image": "/images/js.webp"
+                },
+                {
+                  "id": "3",
+                  "title": "React",
+                  "image": "/images/react.webp"
+                },
+                {
+                  "id": "4",
+                  "title": "WordPress",
+                  "image": "/images/wp.webp"
+                },
+                {
+                  "id": "5",
+                  "title": "PHP",
+                  "image": "/images/php.webp"
+                },
+                {
+                  "id": "6",
+                  "title": "Laravel",
+                  "image": "/images/laravel.webp"
+                },
+                {
+                  "id": "7",
+                  "title": "MySQL",
+                  "image": "/images/sql.webp"
+                }
+              ]
+            }
+          }
+        },
+        "Gallery": {
+          "variants": {
+            "WebserviceGallery2": {
+              "subtitle": "OUR GALLERY",
+              "title1": "Photo",
+              "title2": "Gallery",
+              "description": "A glimpse of our beautifully crafted digital products and solutions.",
+              "images": [
+                {
+                  "id": "img-1",
+                  "image": "/images/portfolio_app_1.webp",
+                  "alt": "Project 1"
+                },
+                {
+                  "id": "img-2",
+                  "image": "/images/portfolio_app_2.webp",
+                  "alt": "Project 2"
+                },
+                {
+                  "id": "img-3",
+                  "image": "/images/portfolio_app_3.webp",
+                  "alt": "Project 3"
+                },
+                {
+                  "id": "img-4",
+                  "image": "/images/portfolio_ui_1.webp",
+                  "alt": "Project 4"
+                },
+                {
+                  "id": "img-5",
+                  "image": "/images/portfolio_ui_2.webp",
+                  "alt": "Project 5"
+                },
+                {
+                  "id": "img-6",
+                  "image": "/images/portfolio_ui_3.webp",
+                  "alt": "Project 6"
+                }
+              ]
+            }
+          }
+        },
+        "Contact": {
+          "variants": {
+            "WebserviceContact2": {
+              "subtitle": "CONTACT US",
+              "title1": "Get In Touch",
+              "title2": "With Us",
+              "description": "Have a project in mind or need expert IT solutions? Reach out to us today. We are always ready to help you grow your business.",
+              "contactInfo": {
+                "phoneTitle": "Call Anytime:",
+                "phone": "+1 000000000",
+                "emailTitle": "Mail Us:",
+                "email": "info@xyz.com",
+                "addressTitle": "Visit Office:",
+                "address": "123 Main St, New York, NY, USA"
+              },
+              "image": "/images/hero-1.jpg",
+              "imageAlt": "Contact Weblance Office",
+              "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.15830869428!2d-74.119763973046!3d40.69766374874431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1680000000000!5m2!1sen!2sin",
+              "form": {
+                "subtitle": "SEND MESSAGE",
+                "title": "Have Any Questions?",
+                "titleHighlight": "Write To Us",
+                "namePlaceholder": "Your Full Name",
+                "emailPlaceholder": "Email Address",
+                "subjectPlaceholder": "Subject",
+                "phonePlaceholder": "Phone Number",
+                "messagePlaceholder": "Write your message here...",
+                "buttonText": "Send Message"
+              }
+            }
+          }
+        }
+      },
+      "templateComponents": {
+        "shared": {
+          "Header": "WebserviceHeader2",
+          "Footer": "WebserviceFooter2"
+        },
+        "pages": {
+          "home": {
+            "components": [
+              {
+                "key": "HeroSection",
+                "component": "WebserviceHero2"
+              },
+              {
+                "key": "Services",
+                "component": "WebserviceServices2"
+              },
+              {
+                "key": "AboutUs",
+                "component": "WebserviceAboutUs2"
+              },
+              {
+                "key": "Portfolio",
+                "component": "WebservicePortfolio2"
+              },
+              {
+                "key": "Gallery",
+                "component": "WebserviceGallery2"
+              },
+              {
+                "key": "Counter",
+                "component": "WebserviceCounter2"
+              },
+              {
+                "key": "Process",
+                "component": "WebserviceProcess2"
+              },
+              {
+                "key": "Technologies",
+                "component": "WebserviceTechnologies2"
+              },
+              {
+                "key": "Testimonials",
+                "component": "WebserviceTestimonials2"
+              },
+              {
+                "key": "Contact",
+                "component": "WebserviceContact2"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "components": [
+        "Header",
+        "HeroSection",
+        "ServicesSection",
+        "AboutUsSection",
+        "PortfolioSection",
+        "GallerySection",
+        "CounterSection",
+        "ProcessSection",
+        "TechnologiesSection",
+        "TestimonialSection",
+        "ContactSection",
+        "Footer"
+      ]
+    },
+    "not-found": {
+      "components": [
+        "Header",
+        "CtaSection",
+        "Footer"
+      ]
+    }
+  }
+}

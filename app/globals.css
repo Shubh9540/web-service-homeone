@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Fonts */
+  --font-primary: var(--font-poppins), sans-serif;
+  --font-heading: var(--font-poppins), sans-serif;
+
+  /* Global Colors — Emerald Tech & Slate Theme */
+  --color-bg-main: #ffffff;
+  --color-bg-card: #ffffff;
+  --color-bg-alt: #f0fdf4;
+  --color-primary: #059669;
+  --color-primary-dark: #047857;
+  --color-primary-light: #34d399;
+  --color-accent: #0d9488;
+  --color-accent-light: #2dd4bf;
+  --color-text: #1e293b;
+  --color-text-light: #64748b;
+  --color-border: #d1fae5;
+  --color-bg-light: #ffffff;
+
+  /* Extended design palette used by Tailwind semantic color tokens (RGB for Tailwind alpha opacity) */
+  --palette-brand: 5 150 105;              /* #059669 Emerald */
+  --palette-navy: 15 23 42;                /* #0f172a Slate 900 */
+  --palette-primary: 5 150 105;            /* #059669 Emerald */
+  --palette-border-soft: 226 232 240;       /* #e2e8f0 Slate 200 */
+  --palette-muted: 100 116 139;            /* #64748b Slate 500 */
+  --palette-blue-bright: 13 148 136;        /* #0d9488 Teal */
+  --palette-text-light: 100 116 139;       /* #64748b */
+  --palette-surface-blue: 240 253 244;      /* #f0fdf4 Emerald 50 */
+  --palette-border-pale: 226 232 240;       /* #e2e8f0 */
+  --palette-icon-muted: 148 163 184;        /* #94a3b8 */
+  --palette-heading: 15 23 42;              /* #0f172a */
+  --palette-cyan: 20 184 166;              /* #14b8a6 Mint */
+  --palette-section-blue: 240 253 250;      /* #f0fdfa Mint Wash */
+  --palette-primary-dark: 4 120 87;         /* #047857 Emerald 700 */
+  --palette-heading-soft: 30 41 59;         /* #1e293b Slate 800 */
+  --palette-surface-neutral: 248 250 252;   /* #f8fafc */
+  --palette-primary-surface: 236 253 245;   /* #ecfdf5 Emerald 50 */
+  --palette-primary-border: 209 250 229;    /* #d1fae5 Emerald 100 */
+  --palette-section-light: 248 250 252;     /* #f8fafc */
+  --palette-card-soft: 255 255 255;
+  --palette-gold: 245 158 11;               /* #f59e0b Amber Accent */
+  --palette-blue-light: 167 243 208;        /* #a7f3d0 */
+  --palette-blue-wash: 236 253 245;         /* #ecfdf5 */
+  --palette-brand-hover: 4 120 87;          /* #047857 */
+  --palette-cyan-bright: 45 212 191;        /* #2dd4bf */
+  --palette-glow-blue: 240 253 244;         /* #f0fdf4 */
+  --palette-brand-wash: 236 253 245;        /* #ecfdf5 */
+  --palette-dot-blue: 167 243 208;         /* #a7f3d0 */
+  --palette-muted-2: 148 163 184;          /* #94a3b8 */
+  --palette-navy-soft: 30 41 59;           /* #1e293b */
+  --palette-border-blue: 209 250 229;       /* #d1fae5 */
+  --palette-blue-deep: 4 120 87;            /* #047857 */
+  --palette-indigo: 15 23 42;              /* #0f172a */
+  --palette-hover-white: 248 250 252;
+  --palette-border-faint: 241 245 249;
+  --palette-dash-blue: 167 243 208;
+  --palette-gradient-blue: 4 120 87;
+  --palette-gold-dark: 217 119 6;
+  --palette-cyan-dark: 13 148 136;
+  --palette-navy-deep: 11 18 33;
+  --palette-blue-muted: 148 163 184;
+  --palette-blue-dot-light: 209 250 229;
+  --palette-surface-green: 240 253 244;
+  --palette-orange: 245 158 11;
+  --palette-border-cool: 209 250 229;
+  --palette-brand-hover-dark: 4 120 87;
+  --palette-surface-blue-light: 236 253 245;
+  --palette-footer-navy: 11 18 33;          /* #0b1221 Dark Charcoal Slate */
+}
+
+body {
+  color: var(--color-text);
+  background-color: var(--color-bg-main);
+}
